@@ -13,7 +13,7 @@
 	<artifactId>onlinegrocerystore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>osmdummy-1</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>onlinegrocerystrore</description>
 	<properties>
 		<java.version>11</java.version>
